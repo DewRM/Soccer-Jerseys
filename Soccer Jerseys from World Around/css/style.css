@@ -1,0 +1,33 @@
+.logo {
+    width: 150px;
+    height: auto;
+}
+
+.navbarlist {
+    display:inline-flex;
+    text-align: center;
+    align-items: center;
+    font-size: larger;
+}
+
+.navbar ul li{
+    margin-left: 75px;
+    padding-top: 10px;
+}
+
+.card-img-top {
+    width: 16rem;
+    height: 16rem;
+    align-items: center;
+    text-align: center;
+    display: block;
+}
+
+.navtexts{
+    color: white;
+}
+
+.navtexts:hover {
+    text-decoration: none;
+    color: #28a745;
+}
